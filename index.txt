@@ -1,0 +1,59 @@
+1,Algoritmul lui Euclid,matematica,done
+2,Cel mai lung subsir comun,dinamica,done
+3,Algoritmul lui Euclid extins,matematica,done
+4,Floyd-Warshall/Roy-Floyd,grafuri,done
+5,Sortare topologica,grafuri,done
+6,Potrivirea sirurilor,diverse,done
+7,Evaluarea unei expresii,diverse,
+8,Arbori de intervale,structuri,done
+9,Subsir crescator maximal,dinamica,
+10,Algoritmul lui Dijkstra,grafuri,done
+11,Ciurul lui Eratosthenes,matematica,done
+12,Generare de permutari,diverse,done
+13,Ridicare la putere in timp logaritmic,diverse,done
+14,Parcurgere in latime,grafuri,done
+15,Parcurgere DFS - componente conexe,grafuri,done
+16,Arbori indexati binar,structuri,done
+17,Range minimum query,structuri,done
+18,Combinari,diverse,done
+19,Cautare binara,diverse,done
+20,Radix Sort,diverse,done
+21,Cuplaj maxim in graf bipartit,grafuri,
+22,Invers modular,matematica,done
+23,Paduri de multimi disjuncte,structuri,done
+24,Trie,structuri,done
+25,Deque,structuri,done
+26,Heapuri,structuri,done
+27,Arbore partial de cost minim,grafuri,done
+28,Componente tare conexe,grafuri,
+29,Sortare prin comparare,diverse,done
+30,Infasuratoare convexa,matematica,done
+31,Hashuri,structuri,done
+32,Componente biconexe,grafuri,
+33,Flux maxim,grafuri,
+34,Flux maxim de cost minim,grafuri,
+35,Ciclu Eulerian,grafuri,done
+36,Subsecventa de suma maxima,dinamica,done
+37,Parantezare optima de matrici,dinamica,done
+38,Ciclu hamiltonian de cost minim,grafuri,done
+39,Cuplaj maxim de cost minim,grafuri,
+40,Coduri Huffman,diverse,
+41,Lowest Common Ancestor,grafuri,
+42,2SAT,diverse,
+43,Statistici de ordine,diverse,done
+44,Principiul includerii si excluderii,diverse,
+45,Al k-lea termen Fibonacci,matematica,done
+46,Submultimi,diverse,done
+47,Cele mai apropiate puncte din plan,matematica,done
+48,Algoritmul Bellman-Ford,grafuri,done
+49,Suma si numarul divizorilor,matematica,done
+50,Numerele lui Stirling,matematica,done
+51,Jocul NIM,diverse,done
+52,Problema rucsacului,dinamica,done
+53,Algoritmul lui Gauss,matematica,done
+54,Heavy Path Decomposition,grafuri,
+55,Problema Damelor,diverse,done
+56,Aho-Corasick,structuri,
+57,Aria,matematica,done
+58,Elementul majoritar,diverse,done
+59,Diametrul unui arbore,grafuri,done
